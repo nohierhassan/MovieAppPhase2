@@ -84,7 +84,7 @@ public class DetailedFragment extends Fragment {
            final Image image;
             if(savedInstanceState != null){
                 image = (Image) savedInstanceState.getParcelable("Image");
-                Log.v("%%%%%%%%%%%%%%%% Second",image2.getTitle());
+                Log.v("%%%%%%%%%%%%%%%%Secondd",image2.getTitle());
 
 
             }
