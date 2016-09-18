@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieApp2</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings for Sorting order -->
+    <string name="sortingOrderTitle">View By NEW</string>
+    <string name="sortingOrderKey">sorting order</string>
+    <string name="sortingOrderDefualtValue">popularity.desc</string>
+    <string name="sortingOrderPop">popularity.desc</string>
+    <string name="sortingOrderRate">vote_average.desc</string>
+    <string name="sortingOrderFav">Fav</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
